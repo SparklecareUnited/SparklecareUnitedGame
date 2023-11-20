@@ -29,8 +29,8 @@
   "gridY": 0,
   "frames": [
     {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5a2e9bc7-0c75-4e29-a638-1d514e9c2aa6",},
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"bf26e63e-02a0-4834-8001-6cee41c0fabb",},
     {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"db201d38-4af0-4a7a-b065-c2a9e14afc20",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"bf26e63e-02a0-4834-8001-6cee41c0fabb",},
   ],
   "sequence": {
     "resourceType": "GMSequence",
@@ -48,8 +48,8 @@
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"6d993f5f-bed9-4f8f-aff1-e108cd7d3298","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5a2e9bc7-0c75-4e29-a638-1d514e9c2aa6","path":"sprites/spr_cornelius_walk/spr_cornelius_walk.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"f6d19bed-1d02-4a20-875e-7091c1cfbeda","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"bf26e63e-02a0-4834-8001-6cee41c0fabb","path":"sprites/spr_cornelius_walk/spr_cornelius_walk.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"d08aae7e-0954-4e1c-b5ba-e12695ff0562","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"db201d38-4af0-4a7a-b065-c2a9e14afc20","path":"sprites/spr_cornelius_walk/spr_cornelius_walk.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"d08aae7e-0954-4e1c-b5ba-e12695ff0562","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"db201d38-4af0-4a7a-b065-c2a9e14afc20","path":"sprites/spr_cornelius_walk/spr_cornelius_walk.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"f6d19bed-1d02-4a20-875e-7091c1cfbeda","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"bf26e63e-02a0-4834-8001-6cee41c0fabb","path":"sprites/spr_cornelius_walk/spr_cornelius_walk.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
