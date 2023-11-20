@@ -3,6 +3,7 @@
   "resourceVersion": "1.6",
   "name": "SparkleCareUnited",
   "resources": [
+    {"id":{"name":"obj_afterimage","path":"objects/obj_afterimage/obj_afterimage.yy",},"order":2,},
     {"id":{"name":"spr_cornelius_walk","path":"sprites/spr_cornelius_walk/spr_cornelius_walk.yy",},"order":0,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"bg_idk","path":"sprites/bg_idk/bg_idk.yy",},"order":2,},

@@ -29,3 +29,7 @@ if (_hspd != 0 || _vspd != 0)
 	sprite_index = spr_cornelius_idle
 	audio_stop_sound(walk)
 	}
+	
+if _run {
+	instance_create_depth(x,y,200,obj_afterimage)
+}	
